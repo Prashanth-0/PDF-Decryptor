@@ -12,7 +12,7 @@ PDF Decryptor is a versatile command-line tool for decrypting password-protected
 
 ## Usage:
 
-Clone the repository:    git clone https://github.com/Prashanth-0/PDF-Decryptor.git
+Clone the repository:  git clone https://github.com/Prashanth-0/PDF-Decryptor.git
 
 Navigate to the project directory: cd PDF-Decryptor
 
