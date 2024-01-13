@@ -10,7 +10,7 @@ def print_colored_banner(text,color='blue'):
     colored_banner = colored(banner, color)
     
     # Display the author name to the left of the banner
-    author_text = colored("Author: Prashanth", 'cyan')
+    author_text = colored("Developed_By: Prashanth", 'cyan')
     print(f"{author_text}\n{' ' * len(author_text)}{colored_banner}")
 
 def find_file(file_name):
