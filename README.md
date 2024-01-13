@@ -12,8 +12,8 @@ PDF Decryptor is a versatile command-line tool for decrypting password-protected
 
 ## Usage:
 
-Clone the repository:    git clone https://github.com/yourusername/pdf-decryptor.git
+Clone the repository:    git clone https://github.com/Prashanth-0/PDF-Decryptor.git
 
-Navigate to the project directory: cd pdf-decryptor
+Navigate to the project directory: cd PDF-Decryptor
 
 Run the tool: python3 pdfcrack.py
