@@ -1,4 +1,4 @@
-pikepdf==2.15.0
-tqdm==4.62.3
+pikepdf==8.11.2
+tqdm==4.65.0
 pyfiglet==1.0.2
 termcolor==1.1.0
